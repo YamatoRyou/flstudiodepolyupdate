@@ -1,27 +1,27 @@
 {
-    "VersionID": 29,
-    "VersionNumber": "0.2.12",
-    "FLStudioVersionName": "FL Studio 20.5.0.1142 免安装英文破解版 (修正 2, VHD) ",
+    "VersionID": 30,
+    "VersionNumber": "0.2.13",
+    "FLStudioVersionName": "FL Studio 20.6.0.1458 免安装英文破解版",
     "Description": "FL Studio 的更新内容请参阅 WhatsNew.rtf",
     "Link": [
         {
             "ID": 511,
-            "Link": "https://drive.google.com/file/d/1GUytXPBkz3y-1l-EzYrbyiIZB8Y5fe8w/view?usp=sharing",
+            "Link": "谷歌网盘地址暂缺",
             "Description": "谷歌网盘"
         },
         {
             "ID": 512,
-            "Link": "https://1drv.ms/u/s!AqJDCzhI3LndjiYKg3O3y9LbGgmA?e=a9nTV4",
+            "Link": "https://1drv.ms/u/s!AqJDCzhI3LndjkDgiqu74UcwSdoq?e=whYy6k",
             "Description": "微软网盘"
         },
         {
             "ID": 513,
-            "Link": "http://yamatoryou.hopto.org:5000/sharing/FV7YI9w0X",
+            "Link": "http://yamatoryou.hopto.org:5000/sharing/dQ3BZrdDJ",
             "Description": "私有云 #1"
         },
         {
             "ID": 514,
-            "Link": "https://dl.fuckcjmarketing.com:5001/sharing/FV7YI9w0X",
+            "Link": "http://dl.fuckcjmarketing.com:5001/sharing/dQ3BZrdDJ",
             "Description": "私有云 #2"
         }
     ]
