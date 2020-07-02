@@ -1,32 +1,32 @@
 {
-    "VersionID": 38,
+    "VersionID": 39,
     "VersionNumber": "0.2.21",
-    "FLStudioVersionName": "FL Studio 20.7.1.1773 免安装英文破解版 (修正 2) ",
+    "FLStudioVersionName": "FL Studio 20.7.1.1773 免安装英文破解版 (修正 3) ",
     "Description": "FL Studio 的更新内容请参阅 WhatsNew.rtf",
     "Link": [
         {
             "ID": 511,
-            "Link": "https://drive.google.com/file/d/1KsMC11rCdYZ1u28xhpqUNxmAINeG3DMI/view?usp=sharing",
+            "Link": "https://drive.google.com/file/d/1EHQj2pAU2z0V2DuawSjLsc1iqAVWeQmc/view?usp=sharing",
             "Description": "谷歌网盘"
         },
         {
             "ID": 512,
-            "Link": "https://1drv.ms/u/s!AqJDCzhI3Lndjkrid94n9xvKwCNn?e=60rtUV",
+            "Link": "https://等待补充",
             "Description": "微软网盘"
         },
         {
             "ID": 513,
-            "Link": "http://yamatoryou.hopto.org:5000/sharing/qvHGKwaeo",
+            "Link": "http://yamatoryou.hopto.org:5000/sharing/",
             "Description": "私有云 #1"
         },
         {
             "ID": 514,
-            "Link": "https://dl.fuckcjmarketing.com:5001/sharing/qvHGKwaeo",
+            "Link": "https://dl.fuckcjmarketing.com:5001/sharing/",
             "Description": "私有云 #2"
         },
         {
             "ID": 515,
-            "Link": "https://pan.masuit.com/0:/FL%20Studio/FL%20Studio%2020.7.1.1773%20(En-US)%20C%20Fixed%202.exe",
+            "Link": "https://pan.masuit.com/0:/FL%20Studio/FL%20Studio%2020.7.1.1773%20(En-US)%20C%20Fixed%203.exe",
             "Description": "私有云 #3"
         }
     ]
