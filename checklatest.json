@@ -1,32 +1,32 @@
 {
-    "VersionID": 41,
-    "VersionNumber": "0.2.22",
-    "FLStudioVersionName": "FL Studio 20.7.2.1863 免安装英文破解版",
+    "VersionID": 43,
+    "VersionNumber": "0.2.24",
+    "FLStudioVersionName": "FL Studio 20.8.3.2304 免安装破解版",
     "Description": "FL Studio 的更新内容请参阅 WhatsNew.rtf",
     "Link": [
         {
             "ID": 511,
-            "Link": "https://drive.google.com/file/d/1rYVknSMNl9nusxITWVm1aSpsRZIS5X9Y/view?usp=sharing",
+            "Link": "https://drive.google.com/drive/folders/1aJCegBxJvXZk2-QqIMHG8xtTpttpd01Y?usp=sharing",
             "Description": "谷歌网盘"
         },
         {
             "ID": 512,
-            "Link": "https://1drv.ms/u/s!AqJDCzhI3Lndjk2myPKqEPLiw0xF?e=Dh2NHn",
+            "Link": "https://1drv.ms/u/s!AqJDCzhI3LndjlL0gqdhLyg9UUlF?e=EhU02t",
             "Description": "微软网盘"
         },
         {
             "ID": 513,
-            "Link": "http://yamatoryou.hopto.org:5000/sharing/3blBY3SI8",
+            "Link": "http://yamatoryou.hopto.org:5000/sharing/LWqERIopP",
             "Description": "私有云 #1"
         },
         {
             "ID": 514,
-            "Link": "https://dl.fuckcjmarketing.com:5001/sharing/3blBY3SI8",
+            "Link": "https://dl.fuckcjmarketing.com:5001/sharing/LWqERIopP",
             "Description": "私有云 #2"
         },
         {
             "ID": 515,
-            "Link": "https://pan.masuit.com/0:/FL%20Studio/FL%20Studio%2020.7.2.1863%20(En-US)%20C.exe",
+            "Link": "https://ldqk.org/drive#/onedrive/softs/flstudio/FL%20Studio%2020.8.3.2304%20C",
             "Description": "私有云 #3"
         }
     ]
